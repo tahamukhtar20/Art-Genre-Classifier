@@ -1,5 +1,5 @@
 # Art-Genre-Classifier
-Classifies art genre (abstract, landscape, portrait, etc...)
+Classifies art genre | abstract, landscape, portrait, animal paintings, cityscape
 - with 87.19% accuracy when classifying b/w 5 classes
 - with 97.03% accuracy when classifying b/w 3 classes
 
